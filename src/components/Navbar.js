@@ -12,7 +12,8 @@ export default function Navbar(props) {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link" aria-current="page" href="/">Home</a>
+                            <a className="nav-link" aria-current="page" href="/">
+                               <a href="https://sites.google.com/view/sohelansarii/home">@2021 | Sohel Ansari</a></a>
                         </li>
                     </ul>
                 </div>

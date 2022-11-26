@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import Alert from './components/Alert';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Navbar title="TextEditor" />
       <Alert alert={alert} />
       <TextForm showAlert={showAlert} />
+      <Footer/>
     </>
   );
 }

@@ -1,1 +1,2 @@
-# TextEditor-React https://sohel22z.github.io/TextEditor-React/
+Create using React + vite
+# TextEditor-React : https://sohel22z.github.io/TextEditor-React/

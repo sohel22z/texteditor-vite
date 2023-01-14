@@ -31,16 +31,6 @@ export default function Navbar(props) {
                 <img src={iconTwo} width={24} height={24} alt="icon" />
               </a>
             </li>
-//             <li className="nav-item">
-//               <a
-//                 className="nav-link"
-//                 aria-current="page"
-//                 target="blank"
-//                 href="https://www.instagram.com/sohelansarii/"
-//               >
-//                 <img src={iconOne} width={24} height={24} alt="icon" />
-//               </a>
-//             </li>
           </ul>
         </div>
       </div>

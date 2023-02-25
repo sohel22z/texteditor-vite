@@ -6,7 +6,7 @@ export const Footer = () => {
         <a
           className="nav-link"
           aria-current="page"
-          href="https://github.com/sohel22z"
+          href="https://www.linkedin.com/in/sohelansarii/"
           target="blank"
         >
           @2021 | Sohel Ansari

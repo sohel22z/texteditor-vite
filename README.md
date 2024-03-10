@@ -1,2 +1,2 @@
 # TextEditor-React
-https://sohel22z.github.io/TextEditor-React/
+https://sohel22z.github.io/texteditor-vite/

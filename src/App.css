@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+
 .text-wrap {
   display: flex;
   flex-wrap: wrap;
